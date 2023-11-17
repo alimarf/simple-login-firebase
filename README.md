@@ -2,7 +2,7 @@
 
 ## Features
 
-This project screens:
+Project screens:
  - Splash Screen
  - Login Screen
  - Verify Otp Screen
