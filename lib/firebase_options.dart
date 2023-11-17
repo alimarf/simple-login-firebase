@@ -63,6 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '494796446601',
     projectId: 'simple-fire-auth-55573',
     storageBucket: 'simple-fire-auth-55573.appspot.com',
+    androidClientId: '494796446601-sarqnq6ngjnk1r6427r229lb5vddb1m8.apps.googleusercontent.com',
     iosClientId: '494796446601-jjgaf9591fsptu01q2sf9mhqe2mnp73j.apps.googleusercontent.com',
     iosBundleId: 'com.example.simpleLoginFirebase',
   );

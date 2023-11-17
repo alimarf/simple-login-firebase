@@ -170,6 +170,7 @@ class _LoginPageState extends State<LoginPage> {
                     isLoading: isLoading,
                     title: 'Login',
                     onPressed: () {
+          
                       if (isPhoneSelected) {
                         context.read<AuthCubit>().signInWithPhone(phoneNumber!);
                       } else {
