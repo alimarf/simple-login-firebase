@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "494796446601",
+    "project_id": "simple-fire-auth-55573",
+    "storage_bucket": "simple-fire-auth-55573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494796446601:android:25d222b687682676d41f58",
+        "android_client_info": {
+          "package_name": "com.example.simple_login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494796446601-3ec3r1pgesboksfurcrb1h0c39orr2ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPkkwWSvO4zrxIbowUBfY-WVKKC_zZx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494796446601-3ec3r1pgesboksfurcrb1h0c39orr2ch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494796446601-jjgaf9591fsptu01q2sf9mhqe2mnp73j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simpleLoginFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
